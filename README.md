@@ -1,4 +1,4 @@
-# React.js Boiler-plate for Webapp
+# React.js Boilerplate Project
 
 Reference list:
 > - React Lifecycle Method Diagram ([Link](https://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/))
@@ -15,7 +15,7 @@ Finished task list:
 > 2. npm initialize & install express boiler-plate package (npm init & install express --save)
 > 3. MongoDB Local Server setting & connect with express server (npm install mongoose --save)
 > 4. mongoose Schema structure & Model concept for typical log-in DB (./models/User.js)
-> 5. setup git CLI operation with Samsung github enterprise
+> 5. setup git CLI operation with Github
 > 6. intall body-parser package for parsing the data between front-end & back-end
 > 7. install The Postman app for checking the back-end
 > 8. install nodemon package for realtime refreshing server (npm install nodemon --save-dev : "--save-dev" only for local & except the publish, should run "nodemon" instead of "node")
